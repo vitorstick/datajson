@@ -119,6 +119,46 @@
                     "name": "Kulas Light"
                 }
             ]
+        },
+        {
+            "name": "Mrs. Dennis Schulist",
+            "username": "Leopoldo_Corkery",
+            "email": "Karley_Dach@jasper.info",
+            "city": "Liverpool",
+            "students": [
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                }
+            ]
+        },
+        {
+            "name": "Kurtis Weissnat",
+            "username": "Elwyn.Skiles",
+            "email": "Telly.Hoeger@billy.biz",
+            "city": "Manchester",
+            "students": [
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                },
+                {
+                    "name": "Kulas Light"
+                }
+            ]
         }
     ]
 }
